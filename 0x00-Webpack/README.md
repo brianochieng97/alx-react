@@ -7,7 +7,7 @@
    - How to split your code into chunks
    - How to setup a dev server
 
-## Tasks :page_with_curl:
+## Tasks 
 ### [0. Basic setup](./task_0)
 Create and run Webpack using a basic installation.
 
